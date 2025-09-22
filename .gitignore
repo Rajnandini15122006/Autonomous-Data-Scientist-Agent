@@ -1,0 +1,16 @@
+# Python / FastAPI
+__pycache__/
+*.pyc
+.env
+temp_*
+*.ipynb
+*.html
+
+# Node / React
+frontend/node_modules
+frontend/build
+.pnp
+.pnp.js
+
+# General
+.DS_Store
